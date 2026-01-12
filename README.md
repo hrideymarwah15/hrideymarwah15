@@ -66,12 +66,7 @@ Hi! I'm Hridey Marwah, a passionate software engineer and creative problem solve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/hrideymarwah15?tab=overview&from=2025-01-01&to=2026-01-01">
-    <img src="https://github.com/users/hrideymarwah15/contributions" alt="GitHub Contribution Graph"/>
-  </a>
-</p>
-
-<p align="center">
+  <b>GitHub does not allow embedding dynamic stats or contribution graphs as images in profile READMEs. Click the links below to view your live stats:</b><br>
   <a href="https://github-readme-stats.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical" target="_blank">View detailed GitHub stats</a> |
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical" target="_blank">View streak stats</a> |
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrideymarwah15&theme=radical" target="_blank">View profile summary</a>
@@ -94,3 +89,7 @@ Hi! I'm Hridey Marwah, a passionate software engineer and creative problem solve
 ---
 
 Thank you for visiting my profile! If you’re interested in collaborating or just want to chat about tech, feel free to reach out.
+
+<!--
+⚠️ Note: GitHub does not support custom background colors for profile READMEs. The background color is determined by the user's GitHub theme (light/dark). For a custom look, consider adding a banner image or customizing your personal website/portfolio.
+-->
