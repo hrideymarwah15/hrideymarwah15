@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Tech+Enthusiast;Building+the+future+one+line+at+a+time"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I'm+Hridey+Marwah+%7C+Tech+Enthusiast;Building+the+future+one+line+at+a+time"/>
 </p>
 
 ---
