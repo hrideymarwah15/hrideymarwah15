@@ -66,9 +66,13 @@ Hi! I'm Hridey Marwah, a passionate software engineer and creative problem solve
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical" width="450"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrideymarwah15&theme=radical" width="900"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical" width="450" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical" width="450" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrideymarwah15&theme=radical" width="900" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <b>If stats do not load, visit <a href="https://github.com/hrideymarwah15">my GitHub profile</a> directly!</b>
 </p>
 
 ---
