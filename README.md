@@ -66,7 +66,9 @@ Hi! I'm Hridey Marwah, a passionate software engineer and creative problem solve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/hrideymarwah15/hrideymarwah15/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph"/>
+  <a href="https://github.com/hrideymarwah15?tab=overview&from=2025-01-01&to=2026-01-01">
+    <img src="https://github.com/users/hrideymarwah15/contributions" alt="GitHub Contribution Graph"/>
+  </a>
 </p>
 
 <p align="center">
