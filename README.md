@@ -65,6 +65,7 @@ Hi! I'm Hridey Marwah, a passionate software engineer and creative problem solve
 
 ## 📊 GitHub Stats
 
+<h3 align="center">📊 GitHub Stats</h3>
 <table>
   <tr>
     <td>
