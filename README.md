@@ -76,9 +76,9 @@ Hi! I'm Hridey Marwah, a passionate software engineer and creative problem solve
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="mailto:hridey.m25673@nst.rishihood.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hrideymarwah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+  <a href="mailto:hrideymarwah15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hridey-marwah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://hrideymarwah.online"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
 </p>
 
 ---
