@@ -68,7 +68,7 @@ Hi! I'm Hridey Marwah, a passionate software engineer and creative problem solve
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical" alt="GitHub Streak Stats"/>
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrideymarwah15&theme=radical" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrideymarwah15&theme=radical&email=hrideymarwah2907@gmail.com" alt="GitHub Profile Summary"/>
 </p>
 
 ---
@@ -76,7 +76,7 @@ Hi! I'm Hridey Marwah, a passionate software engineer and creative problem solve
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="mailto:hrideymarwah15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:hrideymarwah2907@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hridey-marwah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://hrideymarwah.online"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
 </p>
