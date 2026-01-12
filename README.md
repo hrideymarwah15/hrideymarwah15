@@ -66,10 +66,9 @@ Hi! I'm Hridey Marwah, a passionate software engineer and creative problem solve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <b>GitHub does not allow embedding dynamic stats or contribution graphs as images in profile READMEs. Click the links below to view your live stats:</b><br>
-  <a href="https://github-readme-stats.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical" target="_blank">View detailed GitHub stats</a> |
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical" target="_blank">View streak stats</a> |
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrideymarwah15&theme=radical" target="_blank">View profile summary</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical" alt="GitHub Streak Stats"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrideymarwah15&theme=radical" alt="GitHub Profile Summary"/>
 </p>
 
 ---
