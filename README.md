@@ -63,16 +63,16 @@ Hi! I'm Hridey Marwah, a passionate software engineer and creative problem solve
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical" width="450" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical" width="450" alt="GitHub Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrideymarwah15&theme=radical" width="900" alt="Profile Details"/>
+  <img src="https://github.com/hrideymarwah15/hrideymarwah15/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph"/>
 </p>
 
 <p align="center">
-  <b>If stats do not load, visit <a href="https://github.com/hrideymarwah15">my GitHub profile</a> directly!</b>
+  <a href="https://github-readme-stats.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical" target="_blank">View detailed GitHub stats</a> |
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical" target="_blank">View streak stats</a> |
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrideymarwah15&theme=radical" target="_blank">View profile summary</a>
 </p>
 
 ---
