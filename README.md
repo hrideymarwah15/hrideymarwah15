@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I'm+Hridey+Marwah+%7C+Tech+Enthusiast;Building+the+future+one+line+at+a+time"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Tech+Enthusiast;Building+the+future+one+line+at+a+time"/>
 </p>
 
 ---
@@ -110,7 +110,7 @@ Hi! I'm Hridey Marwah, a passionate software engineer and creative problem solve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
@@ -118,7 +118,7 @@ Hi! I'm Hridey Marwah, a passionate software engineer and creative problem solve
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrideymarwah15&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrideymarwah15&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
@@ -136,13 +136,7 @@ Hi! I'm Hridey Marwah, a passionate software engineer and creative problem solve
 <p align="center"><b>"Building the future, one line of code at a time."</b></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true"/>
+  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true" width="100%"/>
 </picture>
-
----
-
-<p align="center">
-  <b>⭐ If you like what I do, consider following me! ⭐</b>
-</p>
