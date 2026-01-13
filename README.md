@@ -27,7 +27,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical" alt="GitHub Streak" width="100%" />
 
 </div>
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hrideymarwah15&layout=compact&theme=radical&hide_border=false)](https://github.com/hrideymarwah15)
 
 </div>
 
