@@ -19,9 +19,6 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hrideymarwah15&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="50%" />
 
 </div>
-
-<br>
-
 </div>
 
 <div align="center">
