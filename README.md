@@ -1,4 +1,4 @@
-# Hi there 👋
+  # Hi there 👋
 
 🚀 **Software Engineer | Tech Enthusiast**
 
@@ -22,8 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical" alt="GitHub Streak" width="50%" />
-</div>
+<img src="https://github-streak.vercel.app/?user=hrideymarwah15&theme=radical" alt="GitHub Streak" width="50%" />
 
 ---
 
