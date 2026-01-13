@@ -21,8 +21,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical&hide_border=false)](https://git.io/streak-stats)
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical" alt="GitHub Streak" width="100%" /></div>
 
 ---
 
