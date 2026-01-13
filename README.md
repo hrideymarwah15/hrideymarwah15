@@ -1,3 +1,9 @@
+# Hi there 👋
+
+<p align="center">
+  <img src="https://github.com/hrideymarwah15/hrideymarwah15/blob/main/customized_metrics.svg" alt="GitHub Metrics" width="100%"/>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -7,3 +13,31 @@
 </p>
 
 ---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github.com/hrideymarwah15/hrideymarwah15/blob/main/customized_metrics.svg" alt="Achievements" width="100%"/>
+</p>
+
+---
+
+## 📅 Contributions Calendar
+
+<p align="center">
+  <img src="https://github.com/hrideymarwah15/hrideymarwah15/blob/main/customized_metrics.svg" alt="Contributions Calendar" width="100%"/>
+</p>
+
+---
+
+## 🔥 Commit Streaks
+
+<p align="center">
+  <img src="https://github.com/hrideymarwah15/hrideymarwah15/blob/main/customized_metrics.svg" alt="Commit Streaks" width="100%"/>
+</p>
+
+---
+
+_Last updated: 13 Jan 2026_
+
+<!-- All metrics and stats are generated and updated automatically -->
