@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-streak.vercel.app/?user=hrideymarwah15&theme=radical" alt="GitHub Streak" width="50%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=hrideymarwah15&theme=radical" alt="GitHub Streak" width="50%" />
 
 ---
 
