@@ -2,6 +2,10 @@
 
 🚀 **Software Engineer | Tech Enthusiast**
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hrideymarwah15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 - 🎓 **Education**: Rishihood University, Sonipat
 - 🌱 **Learning**: Next.js, TypeScript, Cloud Infrastructure
 - 💬 **Ask me about**: Web Development, React, Node.js, and Full-stack Architecture
@@ -12,24 +16,20 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical" alt="Hridey's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrideymarwah15&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical&hide_border=false" alt="Hridey's GitHub Stats" width="50%" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hrideymarwah15&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="50%" />
-
-</div>
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical" alt="GitHub Streak" width="50%" /></div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hrideymarwah15&theme=radical" alt="GitHub Streak" width="100%" />
+</p>
 
 ---
 
 ## 📈 Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrideymarwah15&theme=radical&hide_border=false)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrideymarwah15&theme=radical)
 
 ---
 
