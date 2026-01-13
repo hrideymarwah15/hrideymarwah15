@@ -14,25 +14,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical&hide_border=false" alt="Hridey's GitHub Stats" width="100%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical&hide_border=false" alt="Hridey's GitHub Stats" width="50%" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hrideymarwah15&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="100%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hrideymarwah15&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="50%" />
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical" alt="GitHub Streak" width="100%" />
-
-</div>
-
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical" alt="GitHub Streak" width="100%" /></div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical" alt="GitHub Streak" width="50%" /></div>
 
 ---
 
