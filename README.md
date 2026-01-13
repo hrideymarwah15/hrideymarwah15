@@ -16,20 +16,20 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical" alt="Hridey's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrideymarwah15&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical&hide_border=false" alt="Hridey's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hrideymarwah15&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hrideymarwah15&theme=radical" alt="GitHub Streak" width="100%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical" alt="GitHub Streak" width="50%" />
+</div>
 
 ---
 
 ## 📈 Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrideymarwah15&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrideymarwah15&theme=radical&hide_border=false)
 
 ---
 
