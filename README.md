@@ -18,10 +18,26 @@
 
 ### 📊 GitHub Analytics
 
-![Hridey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrideymarwah15&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical&hide_border=true" alt="Hridey's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrideymarwah15&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 Activity
+
+<!--START_SECTION:activity-->
+- 🔥 Commits: Loading...
+- 🛠️ Projects: Loading...
+- ⭐ Stars: Loading...
+<!--END_SECTION:activity-->
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrideymarwah15&theme=radical&hide_border=true)
 
 ---
 
@@ -39,14 +55,7 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 </p>
-
----
-
-### 📈 Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrideymarwah15&theme=radical&hide_border=true)
 
 ---
 
