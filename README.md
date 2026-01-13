@@ -1,12 +1,6 @@
 # Hi there 👋
 
-[![Hridey Marwah](https://img.shields.io/badge/-Hridey%20Marwah-blue?style=flat-square&logo=github&logoColor=white&link=https://github.com/hrideymarwah15)](https://github.com/hrideymarwah15)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hrideymarwah15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-### 🚀 Software Engineer | Tech Enthusiast
+🚀 **Software Engineer | Tech Enthusiast**
 
 - 🎓 **Education**: Rishihood University, Sonipat
 - 🌱 **Learning**: Next.js, TypeScript, Cloud Infrastructure
@@ -16,7 +10,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical" alt="Hridey's GitHub Stats" width="48%" />
@@ -29,24 +23,13 @@
 
 ---
 
-### 📈 Metrics from GitHub Actions
-
-<p align="center">
-  <img src="customized_metrics.svg" alt="GitHub Metrics" width="100%"/>
-</p>
-
----
-
-### 📈 Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## 📈 Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrideymarwah15&theme=radical)
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -64,7 +47,7 @@
 
 ---
 
-### 🤝 Let's Connect!
+## 🤝 Let's Connect!
 
 <p align="left">
   <a href="mailto:hrideymarwah2907@gmail.com">
