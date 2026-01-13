@@ -3,9 +3,7 @@
 [![Hridey Marwah](https://img.shields.io/badge/-Hridey%20Marwah-blue?style=flat-square&logo=github&logoColor=white&link=https://github.com/hrideymarwah15)](https://github.com/hrideymarwah15)
 
 <p align="left">
-  <a href="https://github.com/hrideymarwah15">
-    <img src="https://komarev.com/ghpvc/?username=hrideymarwah15&label=Profile%20views&color=0e75b6&style=flat" alt="hrideymarwah15" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=hrideymarwah15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ### 🚀 Software Engineer | Tech Enthusiast
@@ -20,14 +18,10 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrideymarwah15&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
+![Hridey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrideymarwah15&layout=compact&theme=radical&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical&hide_border=true)
 
 ---
 
