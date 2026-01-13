@@ -19,12 +19,20 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical&hide_border=true" alt="Hridey's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrideymarwah15&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical" alt="Hridey's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrideymarwah15&layout=compact&theme=radical" alt="Top Langs" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrideymarwah15&theme=radical" alt="GitHub Streak" width="100%" />
+</p>
+
+---
+
+### 📈 Metrics from GitHub Actions
+
+<p align="center">
+  <img src="customized_metrics.svg" alt="GitHub Metrics" width="100%"/>
 </p>
 
 ---
@@ -32,12 +40,9 @@
 ### 📈 Activity
 
 <!--START_SECTION:activity-->
-- 🔥 Commits: Loading...
-- 🛠️ Projects: Loading...
-- ⭐ Stars: Loading...
 <!--END_SECTION:activity-->
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrideymarwah15&theme=radical&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrideymarwah15&theme=radical)
 
 ---
 
