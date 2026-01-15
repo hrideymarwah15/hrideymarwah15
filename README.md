@@ -22,10 +22,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🧑‍💻 About Me
 
 ```javascript
@@ -33,54 +29,41 @@ const hridey = {
   location: "Sonipat, India 🇮🇳",
   education: "Rishihood University",
   roles: ["Full-Stack Dev", "Open Source"],
-  
-  skills: {
-    languages: ["TypeScript", "JavaScript", "Python"],
-    frontend: ["React", "Next.js", "TailwindCSS"],
-    backend: ["Node.js", "Express", "Supabase"],
-    databases: ["MongoDB", "PostgreSQL"],
-    tools: ["Git", "Docker", "VS Code"]
-  }
+  skills: ["TypeScript", "React", "Next.js", "Node.js", "Python", "TailwindCSS"]
 };
 ```
 
-</td>
-<td width="50%" valign="top">
+---
 
-<img src="./metrics.base.svg" alt="GitHub Metrics" width="100%"/>
+## 📊 GitHub Stats
 
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="./metrics.base.svg" alt="GitHub Metrics" width="100%"/>
+</div>
 
 ---
 
 ## 📅 Contribution Calendar
 
 <div align="center">
-  <img src="./metrics.isocalendar.svg" alt="Isometric Calendar" />
+  <img src="./metrics.isocalendar.svg" alt="Isometric Calendar" width="100%"/>
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ## 🎟️ Issues & PRs
 
-<img src="./metrics.followup.svg" alt="Follow-up" width="100%"/>
+<div align="center">
+  <img src="./metrics.followup.svg" alt="Follow-up" width="100%"/>
+</div>
 
-</td>
-<td width="50%" valign="top">
+---
 
 ## 🌟 Recently Starred
 
-<img src="./metrics.stars.svg" alt="Stars" width="100%"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="./metrics.stars.svg" alt="Stars" width="100%"/>
+</div>
 
 ---
 
