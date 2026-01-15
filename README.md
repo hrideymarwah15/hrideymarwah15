@@ -1,67 +1,180 @@
-  # Hi there 👋
-
-🚀 **Software Engineer | Tech Enthusiast**
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hrideymarwah15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-- 🎓 **Education**: Rishihood University, Sonipat
-- 🌱 **Learning**: Next.js, TypeScript, Cloud Infrastructure
-- 💬 **Ask me about**: Web Development, React, Node.js, and Full-stack Architecture
-- 📫 **Reach me**: [hrideymarwah2907@gmail.com](mailto:hrideymarwah2907@gmail.com)
-- 🌐 **Portfolio**: [hrideymarwah.online](https://hrideymarwah.online)
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hrideymarwah15&show_icons=true&theme=radical&hide_border=false" alt="Hridey's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hrideymarwah15&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%" />
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hridey%20Marwah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Building%20the%20Future&descAlignY=52&descSize=18" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+Web+Apps+with+%E2%9D%A4%EF%B8%8F;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;Always+Learning%2C+Always+Growing;Let's+Create+Something+Amazing!" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Quick Links -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hrideymarwah.online-6C63FF?style=for-the-badge&labelColor=1a1b27)](https://hrideymarwah.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://www.linkedin.com/in/hridey-marwah)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:hrideymarwah2907@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=hrideymarwah15&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
+
 </div>
 
+---
+
+<!-- About Section with Metrics -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍💻 About Me
+
+```javascript
+const hridey = {
+  location: "Sonipat, India 🇮🇳",
+  education: "Rishihood University",
+  roles: ["Full-Stack Dev", "Open Source Contributor"],
+  currentFocus: "Building scalable web apps",
+  
+  skills: {
+    languages: ["TypeScript", "JavaScript", "Python"],
+    frontend: ["React", "Next.js", "TailwindCSS"],
+    backend: ["Node.js", "Express", "Supabase"],
+    databases: ["MongoDB", "PostgreSQL"],
+    tools: ["Git", "Docker", "VS Code"]
+  },
+  
+  currentlyLearning: ["Cloud Architecture", "System Design"],
+  funFact: "I think console.log is a valid debugger 😄"
+};
+```
+
+</td>
+<td width="50%" valign="top">
+
+<img src="./metrics.base.svg" alt="GitHub Metrics" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📅 Contribution Calendar
+
 <div align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=hrideymarwah15&theme=radical" alt="GitHub Streak" width="50%" />
+  <img src="./metrics.isocalendar.svg" alt="Isometric Calendar" />
+</div>
 
 ---
 
-## 📈 Activity
+## 🏆 Achievements Unlocked
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrideymarwah15&theme=radical&hide_border=false)
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
+<div align="center">
+  <img src="./metrics.achievements.svg" alt="Achievements" />
+</div>
 
 ---
 
-## 🤝 Let's Connect!
+## ⏰ Coding Habits
 
-<p align="left">
-  <a href="mailto:hrideymarwah2907@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/hridey-marwah">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://hrideymarwah.online">
-    <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<div align="center">
+  <img src="./metrics.habits.svg" alt="Coding Habits" />
+</div>
 
-<!-- All metrics and stats are generated and updated automatically -->
+---
+
+## 📰 Recent Activity
+
+<div align="center">
+  <img src="./metrics.activity.svg" alt="Recent Activity" />
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+  <br>TypeScript
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+  <br>JavaScript
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+  <br>Python
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+  <br>React
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" />
+  <br>Next.js
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+  <br>Tailwind
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+  <br>Node.js
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="48" height="48" />
+  <br>Supabase
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
+  <br>MongoDB
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+  <br>Docker
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+  <br>Git
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" />
+  <br>VS Code
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect & Collaborate!
+
+<br/>
+
+*I'm always excited to work on interesting projects and meet fellow developers.*  
+*Whether it's open source, freelance, or just a tech chat - reach out!*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hrideymarwah15)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://hrideymarwah.online)
+
+<br/>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
+
+<!-- Auto-generated metrics using lowlighter/metrics -->

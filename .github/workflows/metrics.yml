@@ -1,0 +1,140 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Every 6 hours
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+jobs:
+  # ═══════════════════════════════════════════════════════════════════════════
+  # 📊 Base Metrics - Core stats with languages
+  # ═══════════════════════════════════════════════════════════════════════════
+  base-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.base.svg
+          user: hrideymarwah15
+          template: classic
+          config_timezone: Asia/Kolkata
+          config_display: large
+          config_animations: yes
+          
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          repositories_forks: no
+          
+          # Languages
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, cmake, gnuplot, scss
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_colors: github
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
+          
+          # Lines of code
+          plugin_lines: yes
+          plugin_lines_sections: base
+          
+          # Notable contributions
+          plugin_notable: yes
+          plugin_notable_from: all
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # 📅 Isometric Calendar - Full year contribution visualization
+  # ═══════════════════════════════════════════════════════════════════════════
+  isocalendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.isocalendar.svg
+          user: hrideymarwah15
+          template: classic
+          config_timezone: Asia/Kolkata
+          
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # 🏆 Achievements - GitHub milestones
+  # ═══════════════════════════════════════════════════════════════════════════
+  achievements:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.achievements.svg
+          user: hrideymarwah15
+          template: classic
+          config_timezone: Asia/Kolkata
+          
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # 💻 Coding Habits - Activity patterns
+  # ═══════════════════════════════════════════════════════════════════════════
+  habits:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.habits.svg
+          user: hrideymarwah15
+          template: classic
+          config_timezone: Asia/Kolkata
+          
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_facts: yes
+          plugin_habits_trim: yes
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # 📰 Recent Activity - Latest GitHub events  
+  # ═══════════════════════════════════════════════════════════════════════════
+  activity:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.activity.svg
+          user: hrideymarwah15
+          template: classic
+          config_timezone: Asia/Kolkata
+          
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_visibility: public
+          plugin_activity_timestamps: yes
