@@ -10,7 +10,6 @@
 
 <br/>
 
-<!-- Quick Links -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hrideymarwah.online-6C63FF?style=for-the-badge&labelColor=1a1b27)](https://hrideymarwah.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://www.linkedin.com/in/hridey-marwah)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:hrideymarwah2907@gmail.com)
@@ -23,7 +22,6 @@
 
 ---
 
-<!-- About Section with Metrics -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -45,7 +43,6 @@ const hridey = {
     tools: ["Git", "Docker", "VS Code"]
   },
   
-  currentlyLearning: ["Cloud Architecture", "System Design"],
   funFact: "I think console.log is a valid debugger 😄"
 };
 ```
@@ -69,7 +66,7 @@ const hridey = {
 
 ---
 
-## 🏆 Achievements Unlocked
+## 🏆 Achievements
 
 <div align="center">
   <img src="./metrics.achievements.svg" alt="Achievements" />
@@ -98,16 +95,15 @@ const hridey = {
 
 ---
 
-## 📰 Recent Activity
-
-<div align="center">
-  <img src="./metrics.activity.svg" alt="Recent Activity" />
-</div>
-
----
-
 <table>
 <tr>
+<td width="50%" valign="top">
+
+## 📰 Recent Activity
+
+<img src="./metrics.activity.svg" alt="Recent Activity" width="100%"/>
+
+</td>
 <td width="50%" valign="top">
 
 ## 🌟 Recently Starred
@@ -115,19 +111,12 @@ const hridey = {
 <img src="./metrics.stars.svg" alt="Stars" width="100%"/>
 
 </td>
-<td width="50%" valign="top">
-
-## ♐ Code Snippet
-
-<img src="./metrics.code.svg" alt="Code Snippet" width="100%"/>
-
-</td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -192,23 +181,13 @@ const hridey = {
 
 <div align="center">
 
-## 🤝 Let's Connect & Collaborate!
+### 🤝 Let's Connect!
 
-<br/>
+*Open for collaborations and interesting projects*
 
-*I'm always excited to work on interesting projects and meet fellow developers.*  
-*Whether it's open source, freelance, or just a tech chat - reach out!*
+[![GitHub](https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hrideymarwah15)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://hrideymarwah.online)
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hrideymarwah15)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://hrideymarwah.online)
-
-<br/>
-
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
-<!-- 📊 Auto-generated metrics using lowlighter/metrics - Updates every 6 hours -->

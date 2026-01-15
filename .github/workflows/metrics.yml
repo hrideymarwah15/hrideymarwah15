@@ -1,91 +1,55 @@
 # ╔═══════════════════════════════════════════════════════════════════════════╗
 # ║                         🚀 GITHUB METRICS WORKFLOW                        ║
-# ║                    Auto-generates profile metrics SVGs                     ║
-# ║                         Powered by lowlighter/metrics                      ║
 # ╚═══════════════════════════════════════════════════════════════════════════╝
 
 name: 📊 GitHub Metrics
 
 on:
-  # ⏰ Scheduled runs
   schedule:
-    - cron: "0 */6 * * *"  # Every 6 hours
-  
-  # 🔄 Trigger on push
+    - cron: "0 */6 * * *"
   push:
     branches: [main, master]
-  
-  # 🖱️ Manual trigger
   workflow_dispatch:
 
-# 🔒 Permissions
 permissions:
   contents: write
 
 jobs:
   # ═══════════════════════════════════════════════════════════════════════════
-  # 📊 HEADER METRICS
-  # Base stats, languages, lines of code, notable contributions
+  # 📊 BASE METRICS
   # ═══════════════════════════════════════════════════════════════════════════
   header:
     name: 📊 Base Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: 🎨 Generate Base Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.base.svg
           user: hrideymarwah15
           template: classic
-          
-          # ⚙️ Configuration
           config_timezone: Asia/Kolkata
-          config_display: large
-          config_animations: yes
-          config_padding: 0, 8 + 11%
           
-          # 📋 Base content
           base: header, activity, community, repositories, metadata
-          base_indepth: yes
-          repositories: 200
+          base_indepth: no
           repositories_forks: no
-          repositories_affiliations: owner, collaborator
           
-          # 🈷️ Languages Plugin
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, cmake, gnuplot, scss, sass, shell
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_ignored: html, css, dockerfile, makefile
           plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
-          plugin_languages_colors: github
           plugin_languages_sections: most-used
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 30
           
-          # 📈 Lines of code
           plugin_lines: yes
           plugin_lines_sections: base
-          plugin_lines_repositories_limit: 4
-          plugin_lines_history_limit: 1
-          
-          # 🎩 Notable contributions
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_types: commit
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
 
   # ═══════════════════════════════════════════════════════════════════════════
   # 📅 ISOMETRIC CALENDAR
-  # Beautiful 3D commit visualization
   # ═══════════════════════════════════════════════════════════════════════════
   isocalendar:
     name: 📅 Isometric Calendar
     runs-on: ubuntu-latest
     steps:
-      - name: 🗓️ Generate Calendar
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.isocalendar.svg
@@ -95,43 +59,36 @@ jobs:
           
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
 
   # ═══════════════════════════════════════════════════════════════════════════
   # 🏆 ACHIEVEMENTS
-  # GitHub milestones and badges
   # ═══════════════════════════════════════════════════════════════════════════
   achievements:
     name: 🏆 Achievements
     runs-on: ubuntu-latest
     steps:
-      - name: 🎖️ Generate Achievements
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.achievements.svg
           user: hrideymarwah15
           template: classic
           config_timezone: Asia/Kolkata
-          config_display: large
           
           base: ""
           plugin_achievements: yes
-          plugin_achievements_display: detailed
+          plugin_achievements_display: compact
           plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
-          plugin_achievements_limit: 0
 
   # ═══════════════════════════════════════════════════════════════════════════
-  # � CODING HABITS
-  # Activity patterns and coding schedule
+  # 💡 CODING HABITS
   # ═══════════════════════════════════════════════════════════════════════════
   habits:
     name: 💡 Coding Habits
     runs-on: ubuntu-latest
     steps:
-      - name: ⏰ Generate Habits
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.habits.svg
@@ -141,72 +98,40 @@ jobs:
           
           base: ""
           plugin_habits: yes
-          plugin_habits_from: 500
-          plugin_habits_days: 30
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
+          plugin_habits_from: 200
+          plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_trim: yes
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
+          plugin_habits_charts: yes
 
   # ═══════════════════════════════════════════════════════════════════════════
   # 📰 RECENT ACTIVITY
-  # Latest GitHub events timeline
   # ═══════════════════════════════════════════════════════════════════════════
   activity:
     name: 📰 Recent Activity
     runs-on: ubuntu-latest
     steps:
-      - name: 📋 Generate Activity
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.activity.svg
           user: hrideymarwah15
           template: classic
           config_timezone: Asia/Kolkata
-          config_padding: 6%, 13%
           
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 8
+          plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_visibility: public
-          plugin_activity_timestamps: yes
 
   # ═══════════════════════════════════════════════════════════════════════════
-  # 🌟 STARS & REPOSITORIES
-  # Starred repos and featured projects
-  # ═══════════════════════════════════════════════════════════════════════════
-  stars:
-    name: 🌟 Starred Repos
-    runs-on: ubuntu-latest
-    steps:
-      - name: ⭐ Generate Stars
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.stars.svg
-          user: hrideymarwah15
-          template: classic
-          config_timezone: Asia/Kolkata
-          
-          base: ""
-          plugin_stars: yes
-          plugin_stars_limit: 4
-
-  # ═══════════════════════════════════════════════════════════════════════════
-  # 🎟️ FOLLOW-UP
-  # Issues and PRs status
+  # ️ FOLLOW-UP
   # ═══════════════════════════════════════════════════════════════════════════
   followup:
     name: 🎟️ Issues & PRs
     runs-on: ubuntu-latest
     steps:
-      - name: 📊 Generate Follow-up
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.followup.svg
@@ -217,30 +142,22 @@ jobs:
           base: ""
           plugin_followup: yes
           plugin_followup_sections: repositories, user
-          plugin_followup_indepth: yes
-          plugin_followup_archived: yes
 
   # ═══════════════════════════════════════════════════════════════════════════
-  # ♐ CODE SNIPPET
-  # Random code from recent activity
+  # 🌟 STARS
   # ═══════════════════════════════════════════════════════════════════════════
-  code:
-    name: ♐ Code Snippet
+  stars:
+    name: 🌟 Starred Repos
     runs-on: ubuntu-latest
     steps:
-      - name: 💻 Generate Code Snippet
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.code.svg
+          filename: metrics.stars.svg
           user: hrideymarwah15
           template: classic
           config_timezone: Asia/Kolkata
           
           base: ""
-          plugin_code: yes
-          plugin_code_languages: javascript, typescript, python
-          plugin_code_load: 400
-          plugin_code_days: 14
-          plugin_code_lines: 12
-          plugin_code_visibility: public
+          plugin_stars: yes
+          plugin_stars_limit: 3
