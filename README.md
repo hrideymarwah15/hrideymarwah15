@@ -77,11 +77,24 @@ const hridey = {
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## ⏰ Coding Habits
 
-<div align="center">
-  <img src="./metrics.habits.svg" alt="Coding Habits" />
-</div>
+<img src="./metrics.habits.svg" alt="Coding Habits" width="100%"/>
+
+</td>
+<td width="50%" valign="top">
+
+## 🎟️ Issues & PRs
+
+<img src="./metrics.followup.svg" alt="Follow-up" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -90,6 +103,27 @@ const hridey = {
 <div align="center">
   <img src="./metrics.activity.svg" alt="Recent Activity" />
 </div>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🌟 Recently Starred
+
+<img src="./metrics.stars.svg" alt="Stars" width="100%"/>
+
+</td>
+<td width="50%" valign="top">
+
+## ♐ Code Snippet
+
+<img src="./metrics.code.svg" alt="Code Snippet" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -177,4 +211,4 @@ const hridey = {
 
 </div>
 
-<!-- Auto-generated metrics using lowlighter/metrics -->
+<!-- 📊 Auto-generated metrics using lowlighter/metrics - Updates every 6 hours -->
