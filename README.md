@@ -32,8 +32,7 @@
 const hridey = {
   location: "Sonipat, India 🇮🇳",
   education: "Rishihood University",
-  roles: ["Full-Stack Dev", "Open Source Contributor"],
-  currentFocus: "Building scalable web apps",
+  roles: ["Full-Stack Dev", "Open Source"],
   
   skills: {
     languages: ["TypeScript", "JavaScript", "Python"],
@@ -41,9 +40,7 @@ const hridey = {
     backend: ["Node.js", "Express", "Supabase"],
     databases: ["MongoDB", "PostgreSQL"],
     tools: ["Git", "Docker", "VS Code"]
-  },
-  
-  funFact: "I think console.log is a valid debugger 😄"
+  }
 };
 ```
 
@@ -66,42 +63,13 @@ const hridey = {
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="./metrics.achievements.svg" alt="Achievements" />
-</div>
-
----
-
 <table>
 <tr>
-<td width="50%" valign="top">
-
-## ⏰ Coding Habits
-
-<img src="./metrics.habits.svg" alt="Coding Habits" width="100%"/>
-
-</td>
 <td width="50%" valign="top">
 
 ## 🎟️ Issues & PRs
 
 <img src="./metrics.followup.svg" alt="Follow-up" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 📰 Recent Activity
-
-<img src="./metrics.activity.svg" alt="Recent Activity" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
@@ -182,8 +150,6 @@ const hridey = {
 <div align="center">
 
 ### 🤝 Let's Connect!
-
-*Open for collaborations and interesting projects*
 
 [![GitHub](https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hrideymarwah15)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://hrideymarwah.online)

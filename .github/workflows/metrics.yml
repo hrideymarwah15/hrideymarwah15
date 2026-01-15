@@ -1,6 +1,4 @@
-# ╔═══════════════════════════════════════════════════════════════════════════╗
-# ║                         🚀 GITHUB METRICS WORKFLOW                        ║
-# ╚═══════════════════════════════════════════════════════════════════════════╝
+# 📊 GitHub Metrics
 
 name: 📊 GitHub Metrics
 
@@ -15,11 +13,8 @@ permissions:
   contents: write
 
 jobs:
-  # ═══════════════════════════════════════════════════════════════════════════
-  # 📊 BASE METRICS
-  # ═══════════════════════════════════════════════════════════════════════════
-  header:
-    name: 📊 Base Metrics
+  # Base Metrics
+  base:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -31,22 +26,16 @@ jobs:
           config_timezone: Asia/Kolkata
           
           base: header, activity, community, repositories, metadata
-          base_indepth: no
           repositories_forks: no
           
           plugin_languages: yes
-          plugin_languages_ignored: html, css, dockerfile, makefile
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           
           plugin_lines: yes
-          plugin_lines_sections: base
 
-  # ═══════════════════════════════════════════════════════════════════════════
-  # 📅 ISOMETRIC CALENDAR
-  # ═══════════════════════════════════════════════════════════════════════════
+  # Isometric Calendar
   isocalendar:
-    name: 📅 Isometric Calendar
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -61,74 +50,8 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-  # ═══════════════════════════════════════════════════════════════════════════
-  # 🏆 ACHIEVEMENTS
-  # ═══════════════════════════════════════════════════════════════════════════
-  achievements:
-    name: 🏆 Achievements
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.achievements.svg
-          user: hrideymarwah15
-          template: classic
-          config_timezone: Asia/Kolkata
-          
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-
-  # ═══════════════════════════════════════════════════════════════════════════
-  # 💡 CODING HABITS
-  # ═══════════════════════════════════════════════════════════════════════════
-  habits:
-    name: 💡 Coding Habits
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.habits.svg
-          user: hrideymarwah15
-          template: classic
-          config_timezone: Asia/Kolkata
-          
-          base: ""
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
-  # ═══════════════════════════════════════════════════════════════════════════
-  # 📰 RECENT ACTIVITY
-  # ═══════════════════════════════════════════════════════════════════════════
-  activity:
-    name: 📰 Recent Activity
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.activity.svg
-          user: hrideymarwah15
-          template: classic
-          config_timezone: Asia/Kolkata
-          
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-
-  # ═══════════════════════════════════════════════════════════════════════════
-  # ️ FOLLOW-UP
-  # ═══════════════════════════════════════════════════════════════════════════
+  # Follow-up Issues & PRs
   followup:
-    name: 🎟️ Issues & PRs
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -143,11 +66,8 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories, user
 
-  # ═══════════════════════════════════════════════════════════════════════════
-  # 🌟 STARS
-  # ═══════════════════════════════════════════════════════════════════════════
+  # Recently Starred
   stars:
-    name: 🌟 Starred Repos
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
