@@ -46,7 +46,7 @@ const hridey = {
 ## 📅 Contribution Calendar
 
 <div align="center">
-  <img src="./metrics.isocalendar.svg" alt="Isometric Calendar" width="100%"/>
+  <img src="./metrics.isocalendar.svg" alt="Isometric Calendar" width="105%"/>
 </div>
 
 ---
